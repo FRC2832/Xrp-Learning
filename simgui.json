@@ -1,6 +1,11 @@
 {
   "HALProvider": {
     "Other Devices": {
+      "motorL": {
+        "header": {
+          "open": true
+        }
+      },
       "motorR": {
         "header": {
           "open": true
@@ -13,6 +18,18 @@
       "/FMSInfo": "FMSInfo",
       "/SmartDashboard/Auto choices": "String Chooser"
     }
+  },
+  "NetworkTables": {
+    "Shuffleboard": {
+      ".metadata": {
+        "open": true
+      },
+      ".recording": {
+        "open": true
+      },
+      "open": true
+    },
+    "combined": true
   },
   "NetworkTables Info": {
     "visible": true

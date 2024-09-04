@@ -12,8 +12,13 @@
     "**/.project": true,
     "**/.settings": true,
     "**/.factorypath": true,
-    "**/*~": true
+    "**/*~": true,
+    "**/.gradle": true,
+    "**/build": true,
+    "**/gradle": true,
+    "**/*.log": true,
   },
+  "wpilib.skipSelectSimulateExtension": true,
   "java.test.config": [
     {
       "name": "WPIlibUnitTests",
