@@ -29,6 +29,9 @@
       },
       "open": true
     },
+    "SmartDashboard": {
+      "open": true
+    },
     "combined": true
   },
   "NetworkTables Info": {
